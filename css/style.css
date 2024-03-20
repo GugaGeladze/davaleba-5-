@@ -1,0 +1,15 @@
+header {
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #2A9D8F;
+    padding: 38px 130px;
+
+}
+
+.header_nav{
+    display: inline-block;
+}
+
+.header_li{
+    display: inline-block;
+}
