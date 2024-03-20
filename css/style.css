@@ -85,6 +85,18 @@ article {
 
 }
 
+button {
+    background-color: #2A9D8F;
+    border: none;
+    width: 113px;
+    height: 46px;
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    margin-top: 45px;
+
+
+}
+
 .article_2 {
     height: 324px;
     width: 780px;
