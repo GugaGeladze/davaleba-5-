@@ -1,3 +1,5 @@
+
+/* Header  */
 header {
     width: 1440px;
     margin: 0 auto;
@@ -6,10 +8,37 @@ header {
 
 }
 
-.header_nav{
-    display: inline-block;
+.main_logo{
+    vertical-align: middle;
+    margin-right: 688px;
 }
 
-.header_li{
+.header_nav {
     display: inline-block;
+    vertical-align: middle;
+}
+
+.header_li {
+    display: inline-block;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0.005em;
+    font-family: "Nerko One", cursive;
+}
+
+.active,
+.no_active {
+    color: #FFFFFF;
+}
+.middle_li{
+    margin-inline: 80px
+    ;
+}
+
+/* Cover image  */
+
+.cover_1{
+    display: block;
+    margin: auto;
 }
