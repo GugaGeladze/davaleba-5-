@@ -84,3 +84,65 @@ article {
     font-family: "Poppins", sans-serif;
 
 }
+
+.article_2 {
+    height: 324px;
+    width: 780px;
+    display: block;
+    margin: auto;
+    margin-block: 180px;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.article_2_title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0.005em;
+    text-align: center;
+    margin-bottom: 80px;
+    color: #06686E;
+
+
+}
+
+.article_2_text {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.005em;
+    text-align: justified;
+    font-family: "Nerko One", cursive;
+    color: #337C81;
+}
+
+/* Footer  */
+footer {
+    width: 1440px;
+    height: 327px;
+    background-color: #2A9D8F;
+    display: block;
+    margin: auto;
+    padding: 88px 130px;
+    font-family: "Poppins", sans-serif;
+}
+
+.logo_3{
+vertical-align: middle;
+}
+
+.nav_ul_li{
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+font-family: "Poppins", sans-serif;
+color: #FFFFFF;
+display: inline-block;
+margin: auto;
+vertical-align: middle;
+}
+
+.nav_title{
+ color: #FFFFFF;
+}
